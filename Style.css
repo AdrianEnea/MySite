@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 70%;
+
+}
+
+.videowrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25 px;
+    height: 0px;
+
+}
+
+.videowrapper iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper2 {
+    margin: 0 auto;
+    width: 70%;
+
+}
+
+.videowrapper2{
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25 px;
+    height: 0px;
+    
+}
+
+.videowrapper2 iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper3 {
+    margin: 0 auto;
+    width: 70%;
+
+}
+
+.videowrapper3 {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25 px;
+    height: 0px;
+    
+}
+
+.videowrapper3 iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper4 {
+    margin: 0 auto;
+    width: 70%;
+
+}
+
+.videowrapper4 {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25 px;
+    height: 0px;
+    
+}
+
+.videowrapper4 iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper5 {
+    margin: 0 auto;
+    width: 70%;
+
+}
+
+.videowrapper5 {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25 px;
+    height: 0px;
+
+}
+
+.videowrapper5 iframe {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 100%;
+    width: 100%;
+}
+
